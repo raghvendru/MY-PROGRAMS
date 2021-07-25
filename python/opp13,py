@@ -1,0 +1,9 @@
+def opp1():
+    a='a'
+    b='b'
+    print(ord('a'))
+    print(ord('a+b'))
+
+
+    
+opp1()

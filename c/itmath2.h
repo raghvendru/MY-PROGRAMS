@@ -1,0 +1,1 @@
+int isSTRONG(int n);

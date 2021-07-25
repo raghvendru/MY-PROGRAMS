@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "OPP23.C": "cpp",
+        "OPP23a.C": "cpp",
+        "Star_2.C": "cpp",
+        "Star_3.C": "cpp",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "valarray": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

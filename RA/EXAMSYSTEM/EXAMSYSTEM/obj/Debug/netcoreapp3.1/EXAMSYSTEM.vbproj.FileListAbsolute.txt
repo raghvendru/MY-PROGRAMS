@@ -1,0 +1,6 @@
+D:\ITFYME\RA\EXAMSYSTEM\EXAMSYSTEM\obj\Debug\netcoreapp3.1\EXAMSYSTEM.vbprojAssemblyReference.cache
+D:\ITFYME\RA\EXAMSYSTEM\EXAMSYSTEM\obj\Debug\netcoreapp3.1\EXAMSYSTEM.AssemblyInfoInputs.cache
+D:\ITFYME\RA\EXAMSYSTEM\EXAMSYSTEM\obj\Debug\netcoreapp3.1\EXAMSYSTEM.AssemblyInfo.vb
+D:\ITFYME\RA\EXAMSYSTEM\EXAMSYSTEM\obj\Debug\netcoreapp3.1\EXAMSYSTEM.vbproj.CoreCompileInputs.cache
+D:\ITFYME\RA\EXAMSYSTEM\EXAMSYSTEM\obj\Debug\netcoreapp3.1\EXAMSYSTEM.AS.resources
+D:\ITFYME\RA\EXAMSYSTEM\EXAMSYSTEM\obj\Debug\netcoreapp3.1\EXAMSYSTEM.vbproj.GenerateResource.cache
